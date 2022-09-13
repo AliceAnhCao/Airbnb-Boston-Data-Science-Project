@@ -1,7 +1,7 @@
 # AirbnbBoston
 ## Introduction
 
-This GitHub repository has the code related to a Medium article that you can find.
+This GitHub repository has the code related to a Medium article that you can find [here](https://medium.com/@caohongvananh/airbnb-boston-data-science-74d39ad984fc).
 
 The objective of this work is to analyze the data from Boston Airbnb, available on this [link](http://insideairbnb.com/get-the-data/), and answer the following questions:
 
