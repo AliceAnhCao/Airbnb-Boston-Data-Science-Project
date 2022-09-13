@@ -10,7 +10,7 @@ The objective of this work is to analyze the data from Boston Airbnb, available 
 3.	What are the factors impact price of Boston Airbnb?
 
 
-## File descriptions
+## File descriptions [link] (https://github.com/AliceAnhCao/Airbnb-Boston-Data-Science-Project.git)
 
 ### [Data collection and select relevant information]
 
